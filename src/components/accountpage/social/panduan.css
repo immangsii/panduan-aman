@@ -1,0 +1,72 @@
+.Tabs {
+    display:flex;
+    font-size:100px;
+}
+
+.kata {
+    text-align:center;
+    line-height:30px;
+    font-size:18px;
+}
+.garis {
+    background-Color: rgb(231, 231, 231);
+    height: 5px;
+    width: 44px;
+    position:relative;
+    margin-left:48%;
+}
+.tabPar {
+    font-size:18px;
+    
+
+}
+
+.panel{
+    background: #f7f7f7;
+    border-radius: 4;
+    margin-bottom: 24;
+    border: 0;
+    overflow: hidden;
+}
+
+p{
+    font-size: 13px;
+    font-weight:  500;
+    margin-top: 10px;
+}
+
+.list{
+    font-size: 14px;
+    font-weight:  500;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+.subHead{
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 45px;
+    background: linear-gradient(to right, #fa531c46, rgb(255, 255, 255));
+    padding: 0 0 0 10px;
+    
+}
+
+.subHead1{
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 45px;
+    background: linear-gradient(to right, #fa531c46, rgb(255, 255, 255));
+    padding: 0 0 0 10px;
+    margin-left: 20px;
+    
+}
+
+.subHead2{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 42px;
+}
+
+.lainnya{
+    font-size: 13px;
+}
